@@ -1,7 +1,16 @@
 .board{
     display:grid;
     margin: 0 auto;
-    width : 800;
+    width : 800px;
     padding: 10px 10px;
     border: 1px solid black;
+}
+
+.black{
+    background: black;
+}
+
+.clear{
+    display: block;
+    margin: 10px auto;
 }
